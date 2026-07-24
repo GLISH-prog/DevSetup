@@ -56,3 +56,21 @@ body { padding: 2rem; }
 .obesite {
     background: #ef4444; 
 }
+
+.texte {
+    background: violet;
+    color: white;
+    padding: 35px;
+    margin-top: 12px;
+
+    border-radius: 12px;
+
+}
+
+.h {
+    background: #3b82f6;
+    color: white;
+    padding: 35px;
+    margin-top: 12px;
+    border-radius: 12px;
+}
