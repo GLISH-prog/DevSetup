@@ -27,3 +27,32 @@ box-shadow: 0 1px 3px rgba(0,0,0,.1);
 @media (min-width: 768px) {
 body { padding: 2rem; }
 }
+
+#sortie {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.carte-imc {
+    padding: 15px;
+    border-radius: 12px;
+    color: white;
+    font-weight: bold;
+}
+
+.maigreur {
+    background: #3b82f6; 
+}
+
+.normal {
+    background: #10b981; 
+}
+
+.surpoids {
+    background: #f59e0b; 
+}
+
+.obesite {
+    background: #ef4444; 
+}
